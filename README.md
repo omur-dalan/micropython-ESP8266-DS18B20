@@ -1,5 +1,5 @@
 # micropython-ESP8266-DS18B20
-Advertising Temperature Data from DS18B20 with micropython on ESP8266 (NodeMCU)
+Advertising Temperature Data from DS18B20 with micropython on ESP8266 (NodeMCU) Board
 
 ## Requirement
 
